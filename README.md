@@ -9,3 +9,4 @@
   * [Gaia Saldarini](https://github.com/gaiasaldarini)
 * A.Y. 2023/2024
 * Grade: 5.5/5
+* The competition was held on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/16514)
